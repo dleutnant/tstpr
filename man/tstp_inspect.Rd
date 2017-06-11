@@ -31,4 +31,3 @@ quality refer to the maxfocus of the time series.
 \author{
 Dominik Leutnant
 }
-

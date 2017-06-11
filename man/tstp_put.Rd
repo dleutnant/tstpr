@@ -27,4 +27,3 @@ in an XML message and integrated on the server.
 \author{
 Dominik Leutnant
 }
-

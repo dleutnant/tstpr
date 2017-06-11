@@ -22,10 +22,9 @@ A complete attribute set encoded as URL is submitted. A TSID of the series
 which was created (or found in the database) is returned. In case the 
 creation failed, the TSID obtains the value 0.
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[xts]{xts}}
 }
-
+\author{
+Dominik Leutnant
+}

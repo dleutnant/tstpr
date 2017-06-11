@@ -44,10 +44,9 @@ containing the list of the datetime-value pairs is delivered. 'Time reference',
 Alternatively, the transmission can be carried out as ASCII which is 
 selected via the parameter type=asc.
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[xts]{xts}}
 }
-
+\author{
+Dominik Leutnant
+}

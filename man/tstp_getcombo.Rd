@@ -38,10 +38,9 @@ parameters of the GET command (VON, BIS, QUAL) there is READMODE,
 that can take INTERPOLIERT (interpolated), INNEN (inside) or AUSSEN
 (outside). The default is INTERPOLIERT.
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[xts]{xts}}
 }
-
+\author{
+Dominik Leutnant
+}

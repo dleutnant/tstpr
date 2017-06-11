@@ -44,4 +44,3 @@ defines the attributes time step factor and time step for the returned series.
 \author{
 Dominik Leutnant
 }
-

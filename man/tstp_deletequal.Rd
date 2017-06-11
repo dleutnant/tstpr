@@ -27,4 +27,3 @@ The quality is deleted in the interval range.
 \author{
 Dominik Leutnant
 }
-

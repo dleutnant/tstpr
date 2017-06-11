@@ -22,10 +22,9 @@ Assigns tstp attributes to an xts-object
 \details{
 Assign tstp attributes to the xts-object provided.
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[xts]{xts}}
 }
-
+\author{
+Dominik Leutnant
+}

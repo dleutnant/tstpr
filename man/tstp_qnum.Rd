@@ -29,4 +29,3 @@ Without focus the total number is returned.
 \author{
 Dominik Leutnant
 }
-

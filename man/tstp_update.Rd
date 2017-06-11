@@ -25,4 +25,3 @@ the server having noticed this, this command must be applied.
 \author{
 Dominik Leutnant
 }
-

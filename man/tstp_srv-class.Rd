@@ -16,7 +16,7 @@ It stores the tstp server connection information.
    \item{\code{pass}:}{Object of class \code{"character"} }
  }
 }
+
 \author{
 Dominik Leutnant
 }
-

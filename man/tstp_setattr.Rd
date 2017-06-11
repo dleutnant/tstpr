@@ -28,10 +28,9 @@ An attribute of the time series selected by TSID is set. Identification
 attributes can not be set. Besides attributes you may pass INFO und 
 LEBENSLAUF to set this fields of the time series.
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[xts]{xts}}
 }
-
+\author{
+Dominik Leutnant
+}

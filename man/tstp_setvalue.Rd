@@ -38,4 +38,3 @@ WARNING! This function overrides values without prompting!
 \author{
 Dominik Leutnant
 }
-

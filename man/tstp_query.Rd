@@ -65,4 +65,3 @@ attributes and a number identifying it clearly (TSID) in XML format.
 \author{
 Dominik Leutnant
 }
-

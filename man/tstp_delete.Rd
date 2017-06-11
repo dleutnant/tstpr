@@ -23,4 +23,3 @@ The TSID of the time series to be deleted is submitted.
 \author{
 Dominik Leutnant
 }
-

@@ -28,10 +28,9 @@ tstp_connection(host = NULL, port = NULL, user = "user", pass = "pass",
 \description{
 Creates a tstp_connection object
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[httr]{timeout}}
 }
-
+\author{
+Dominik Leutnant
+}

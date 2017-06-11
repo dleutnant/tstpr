@@ -18,10 +18,9 @@ Deletes attributes of a timeseries
 \details{
 Deletes tstp attibutes of the xts-object provided.
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[xts]{xts}}
 }
-
+\author{
+Dominik Leutnant
+}

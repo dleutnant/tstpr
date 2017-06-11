@@ -17,10 +17,9 @@ A numeric vector with exisiting versions of the xts-object provided.
 \description{
 Returns a vector with exisiting versions of the xts-object provided
 }
-\author{
-Dominik Leutnant
-}
 \seealso{
 \code{\link[xts]{xts}}
 }
-
+\author{
+Dominik Leutnant
+}

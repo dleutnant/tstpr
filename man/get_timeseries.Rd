@@ -39,4 +39,3 @@ R objects with identical names are overwritten without warning.
 \author{
 Dominik Leutnant
 }
-

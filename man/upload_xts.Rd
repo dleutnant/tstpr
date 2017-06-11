@@ -25,4 +25,3 @@ Upload of an xts-object
 \author{
 Dominik Leutnant
 }
-
